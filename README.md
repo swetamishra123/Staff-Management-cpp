@@ -52,8 +52,50 @@ This C++ program is designed for basic staff management. It allows you to input 
 
 ## Contributing
 
-This program is open for contributions. If you have any suggestions or improvements, please feel free to make pull requests or open issues on the [GitHub repository](https://github.com/swetamishra123/Staff-Management-cpp).
+This program is open for contributions. If you have any suggestions or improvements, please feel free to make pull requests.
 
-## License
+1. **Fork the Repository**: Click the "Fork" button at the top of the [GitHub repository page](https://github.com/swetamishra123/Staff-Management-cpp) to create your copy of the repository.
 
-This program is released under the [MIT License](LICENSE).
+2. **Clone the Repository**: Clone your forked repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/Staff-Management-cpp.git
+   ```
+
+3. **Create a New Branch**: Create a new branch for your contributions:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+   Choose a descriptive name for your branch.
+
+4. **Make Changes**: Make your desired changes or improvements to the codebase.
+
+5. **Commit Your Changes**: Commit your changes with a clear and concise commit message:
+
+   ```bash
+   git commit -m "Add feature: your-feature-name"
+   ```
+
+6. **Push to Your Fork**: Push your changes to your forked repository:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+7. **Create a Pull Request**: On the GitHub repository page, click the "New Pull Request" button, and submit your pull request.
+
+   - Describe your changes in the pull request.
+   - Reference any issues or discussions related to the pull request.
+
+8. **Review and Collaborate**: We will review your pull request, provide feedback, and collaborate with you on any necessary improvements.
+
+9. **Merge**: Once the pull request is approved, it will be merged into the main project.
+
+Thank you for contributing to this project!
+
+
+### License
+
+By contributing to this project, you agree to license your contributions under the [MIT License](LICENSE).
